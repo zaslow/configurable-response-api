@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "DC",
+  "regionName": "District of Columbia",
+  "city": "Washington",
+  "zip": "20068",
+  "lat": 38.9072,
+  "lon": -77.0369,
+  "timezone": "America/New_York",
+  "isp": "HopOne Internet Corporation",
+  "org": "HopOne Internet Corporation",
+  "as": "AS14361 HopOne Internet Corporation",
+  "query": "207.228.238.7"
+}
