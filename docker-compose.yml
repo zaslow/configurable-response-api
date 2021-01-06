@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+  sample-api:
+    build: .
+    container_name: sample-api
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/usr/local/src
+      - /usr/local/src/node_modules

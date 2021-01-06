@@ -38,8 +38,15 @@ REMOTE_DATA_PATH=http://httpbin.org/get
 ```
 npm start
 ```
+OR
+```
+docker-compose up
+```
 
 ## Get a reponse
 ```
 curl -k http://localhost:3000/sample
+
+# with HTTPie installed
+http localhost:3000/sample
 ```
