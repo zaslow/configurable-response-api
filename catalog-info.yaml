@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: configurable-response-api
+  annotations:
+    github.com/project-slug: zaslow/configurable-response-api
+spec:
+  type: other
+  lifecycle: unknown
+  owner: zaslow
