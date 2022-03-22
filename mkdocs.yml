@@ -1,0 +1,8 @@
+site_name: Configurable Response API
+repo_url: https://github.com/zaslow/configurable-response-api
+theme:
+  name: material
+
+nav:
+  - Home: 'index.md'
+  - README: '../README.md'
