@@ -11,4 +11,7 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: mkdocs gh-deploy --force
+      - name: Install Mkdocs
+        run: pip install mkdocs
+      - name: Run Mkdocs
+        run: mkdocs gh-deploy --force
