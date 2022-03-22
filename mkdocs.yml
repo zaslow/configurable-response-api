@@ -1,8 +1,8 @@
 site_name: Configurable Response API
-# repo_url: https://github.com/zaslow/configurable-response-api
-# theme:
-#   name: jekyll-theme-hacker
+repo_url: https://github.com/zaslow/configurable-response-api
+theme:
+  name: jekyll-theme-hacker
 
 nav:
   - Home: 'index.md'
-  # - README: '../README.md'
+  - README: '../README.md'
