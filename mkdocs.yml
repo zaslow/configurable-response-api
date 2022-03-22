@@ -1,6 +1,6 @@
 nav:
-  - Home: 'index.md'
-  - README: '../README.md'
+  - 'Home': 'index.md'
+  - 'README': '../README.md'
 repo_url: https://github.com/zaslow/configurable-response-api
 site_name: Configurable Response API
 theme:
